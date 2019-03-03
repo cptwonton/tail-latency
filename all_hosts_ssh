@@ -1,0 +1,6 @@
+
+MEDIUM 1: ssh -i bjwhite3.pem ubuntu@ec2-35-161-134-163.us-west-2.compute.amazonaws.com
+MEDIUM 2: ssh -i bjwhite3.pem ubuntu@ec2-34-218-209-138.us-west-2.compute.amazonaws.com
+MEDIUM 3: ssh -i bjwhite3.pem ubuntu@ec2-34-221-113-28.us-west-2.compute.amazonaws.com
+XLarge: ssh -i bjwhite3.pem ubuntu@ec2-52-36-185-26.us-west-2.compute.amazonaws.com
+Micro: ssh -i bjwhite3.pem ubuntu@ec2-34-221-254-133.us-west-2.compute.amazonaws.com
